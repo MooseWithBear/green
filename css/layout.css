@@ -1,0 +1,41 @@
+*{margin: 0; padding: 0;}
+img{border: 0; vertical-align: top;}
+
+.wrap{width: 1000px; border: 1px solid red;}
+
+
+.header{overflow: hidden;}
+.headerTop{overflow: hidden;}
+.headerBottom{overflow: hidden;}
+
+
+
+.header .sns{float: left;}
+.header .topMenu{float: right;}
+.header .logo{float: left;}
+.header .nav{float:right;}
+
+
+.visual{overflow: hidden;}
+
+.content{overflow: hidden;}
+
+
+.contentTop{overflow: hidden;}
+.contentTop .con1{float: left;}
+.contentTop .con2{float: right;}
+
+.contentMid{overflow: hidden;}
+.contentMid .con3{float: left;}
+.contentMid .con4{float: left;}
+.contentMid .con5{float: right;}
+
+.contentBottom{ overflow: hidden;}
+.contentBottom .con6{float: left;}
+.contentBottom .con7{float: left;}
+.contentBottom .con8{float: right;}
+
+.footer{overflow: hidden; clear: both;}
+.footer .bottomLogo{float: left;}
+.footer .copy{float: left;}
+.footer .family{float: right;}
